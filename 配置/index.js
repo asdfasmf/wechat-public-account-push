@@ -1,16 +1,16 @@
-export const config = {
-    // 公众号配置
+export const config = { 
+        // 公众号配置
     // 公众号appId
-    appId: "wx82bed38899d64c94",
+    appId: "wxde332d0cba1d9a38
+",
     // 公众号appSecret
-    appSecret: "68352c3e8a8826d00fdbc3655b58ed36",
+    appSecret: "728134e32728c4a41d5ae20981e3dad7
+",
     // 模板消息id
-    templateId: "chPHTZXoYmAR0_lyPrZMhwanOc3JbkJMqs_TOw0E_Fk",
+    templateId: "oKUCp6AZEtly18HWkCLvRWKXWh1k",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: [oGh_L52iTgjQ4krxdCL-e_egahrQ],
-     
-    // 信息配置
-    // 所在省份
+    user: [7Ya4SJ779om7d-tJBoq2f9_-KHfk0a7oV_8LvfsTojk],
+
     province: "广东",
     // 所在城市
     city: "惠州",
@@ -35,4 +35,4 @@ export const config = {
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
-// {{note_ch.DATA}}0
+// {{note_ch.DATA}}
